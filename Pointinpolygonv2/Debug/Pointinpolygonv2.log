@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  Wielokat.cpp
+c:\users\dropsu\documents\visual studio 2015\projects\pointinpolygonv2\pointinpolygonv2\wielokat.cpp(10): warning C4101: 'y': unreferenced local variable
+c:\users\dropsu\documents\visual studio 2015\projects\pointinpolygonv2\pointinpolygonv2\wielokat.cpp(10): warning C4101: 'x': unreferenced local variable
+c:\users\dropsu\documents\visual studio 2015\projects\pointinpolygonv2\pointinpolygonv2\wielokat.cpp(71): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  Punkt.cpp
+  main.cpp
+  Generating Code...
+  Pointinpolygonv2.vcxproj -> C:\Users\Dropsu\Documents\Visual Studio 2015\Projects\Pointinpolygonv2\Debug\Pointinpolygonv2.exe
